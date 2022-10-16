@@ -20,7 +20,7 @@ The questions are simple
 The intents have been clearly mentioned 
 A total of 7 intents were made, defining parameters wherever necessary 
 
-## Conclusion
+## Conclusion - 
 
 The ChatBot has been made, though it is functional, It needs additional resources to be deployed successfully. There are many things to explore like in - follow up intents and having a complete integration with google cloud and other apps. 
 Nevertheless, It was quite easy to navigate around dialog-flow. For sure it is a great tool to make chatbots best suited for business needs. 
