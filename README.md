@@ -1,5 +1,5 @@
 # ChatBot-Dialogflow
-## LInk: [ChatBot-URL](https://bot.dialogflow.com/71796935-8687-4cfc-a773-38376df5f54a)
+## Link: [ChatBot-URL](https://bot.dialogflow.com/71796935-8687-4cfc-a773-38376df5f54a)
 
 ## Introduction - 
 
